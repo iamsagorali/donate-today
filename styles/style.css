@@ -216,6 +216,9 @@ footer{
 
 /* Responsvie design for small devices */
 @media screen and (max-width: 576px) {
+  .title{
+    font-size: 2.5rem;
+  }
   .header-container {
     padding: 100px 20px;
   }
